@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Prashant-123/XpenseTracker/master/assets/icon.png">
 
 # XpenseTracker: Smart Expense Tracker App
-Xpense Tracker will keep the track of your daily expenses in the simplest way possible. All you have to do is just take a snapshot of that bill or receipt and it’ll show you the name of that store and the total amount you’ve transacted with the store.
+Xpense Tracker will keep the track of your daily expenses in the simplest way possible. All you have to   do is just take a snapshot of that bill or receipt and it’ll show you the name of that store and the total amount you’ve transacted with the store.
 
 #### [AndroidDevChallenge - Cover Letter](https://docs.google.com/document/d/1FgvNBxSf2l6w2KPod8REvPa_vSA8OP9nIV5O8kZ_2UQ/edit?usp=sharing "AndroidDevChallenge - Cover Letter")
 
